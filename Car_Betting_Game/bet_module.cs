@@ -12,8 +12,7 @@ namespace Car_Betting_Game
         public int Car;
         public person_module Bettor;
 
-
-
+        
 
 
         public string GetDescription()
